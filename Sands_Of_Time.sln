@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sands_Of_Time", "Sands_Of_Time\Sands_Of_Time.csproj", "{D3E31DE7-DD6C-4486-AC58-E50EE995A3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E31DE7-DD6C-4486-AC58-E50EE995A3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E31DE7-DD6C-4486-AC58-E50EE995A3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E31DE7-DD6C-4486-AC58-E50EE995A3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E31DE7-DD6C-4486-AC58-E50EE995A3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BECBC5-FE9A-49DB-A598-35388C39B928}
+	EndGlobalSection
+EndGlobal
